@@ -1,2 +1,3 @@
 # DSA Journal
-Learn DSA
+Why DSA?
+
