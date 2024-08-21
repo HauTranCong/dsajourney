@@ -6,20 +6,20 @@ represents the sum of the array from the start up to i. This allows for efficien
 
 Use this pattern when you need to perform multiple sum queries on a subarray or need to calculate cumulative sums.
 
-# Sample Problem:
+## Sample Problem:
 Given an array nums, answer multiple queries about the sum of elements within a specific range [i, j].
 
-# Example:
+## Example:
 Input: nums = [1, 2, 3, 4, 5, 6], i = 1, j = 3
 Output: 9
 
-# Explanation:
+## Explanation:
 Preprocess the array A to create a prefix sum array: P = [1, 3, 6, 10, 15, 21].
 To find the sum between indices i and j, use the formula: P[j] - P[i-1].
 
-# LeetCode Problems:
-Range Sum Query - Immutable (LeetCode #303)
-Contiguous Array (LeetCode #525)
-Subarray Sum Equals K (LeetCode #560)
+## LeetCode Problems:
+1. Range Sum Query - Immutable (LeetCode #303)
+2. Contiguous Array (LeetCode #525)
+3. Subarray Sum Equals K (LeetCode #560)
 
-# Reference: https://blog.algomaster.io/p/15-leetcode-patterns
+## Reference: https://blog.algomaster.io/p/15-leetcode-patterns
