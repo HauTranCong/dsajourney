@@ -11,7 +11,7 @@ the other moving two steps at a time (fast).
 3. If the fast pointer reaches the end of the list, there is no cycle.
 
 ## LeetCode Problems:
-Linked List Cycle (LeetCode #141)
-Happy Number (LeetCode #202)
-Find the Duplicate Number (LeetCode #287)
+1. Linked List Cycle (LeetCode #141)
+2. Happy Number (LeetCode #202)
+3. Find the Duplicate Number (LeetCode #287)
 

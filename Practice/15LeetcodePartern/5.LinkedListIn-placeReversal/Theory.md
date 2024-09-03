@@ -15,6 +15,6 @@ Identify the start and end of the sublist.
 Reverse the nodes in place by adjusting the pointers.
 
 ## LeetCode Problems:
-Reverse Linked List (LeetCode #206)
-Reverse Linked List II (LeetCode #92)
-Swap Nodes in Pairs (LeetCode #24)
+1. Reverse Linked List (LeetCode #206)
+2. Reverse Linked List II (LeetCode #92)
+3. Swap Nodes in Pairs (LeetCode #24)
